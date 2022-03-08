@@ -25,7 +25,7 @@ while running:
     #Process checks
     if(age > age_check and height > height_check):
         os.system('cls')
-        print("Stap maar in!")
+        print("Stap maar in! en doe je gordel maar vast!")
         print(coasterimg.get())
         time.sleep(2)
 
